@@ -1,4 +1,4 @@
-# jeju_competition
+# Jeju_competition
 > 데이콘 13회 Jeju BigData Competition 참가 (2019.11.25 ~ 2019.12.06)          
  1. 프로젝트명   : 제주시 퇴근시간 버스 승차 인원 예측       
  2. 인      원  : 총 5명        
